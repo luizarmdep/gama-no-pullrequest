@@ -8,9 +8,9 @@
 
 #### Altere o arquivo README.MD e coloque suas impressões sobre este curso
 
-Minha opiniao sobre o curso e lalalalalalalal
+Estou achando o curso demais!!! 
 
-##### Faça o commit da sua altetação
+##### Faça o commit da sua alteração
 
 #### Execute o comando
 
